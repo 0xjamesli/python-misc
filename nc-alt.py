@@ -25,9 +25,6 @@ TODO:
 Formatting problems
 
 TODO:
-Solve the sudo issue
-
-TODO:
 Finish the client part
 
 TODO:
