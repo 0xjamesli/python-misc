@@ -25,3 +25,14 @@ def fb(n):
     return(fb(n-1) + fb(n-2))
 print(fb(5))
 # 5
+
+
+# Q-3
+# What is the output of this code?
+arr = [[]] * 3
+arr[0].append(7)
+try:
+  print(arr[1][0])
+except IndexError:
+  print("0")
+# 7
