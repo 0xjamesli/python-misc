@@ -20,6 +20,23 @@ upload_destination = ""
 port               = ""
 
 
+'''
+TODO:
+Formatting problems
+
+TODO:
+Solve the sudo issue
+
+TODO:
+Finish the client part
+
+TODO:
+Finish upload part
+
+TODO:
+Finish piping part
+'''
+
 def usage():
  print("nc-alt Tool")
  print("Usage: {} -t target_host -p port\n".format(sys.argv[0]))
