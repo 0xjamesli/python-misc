@@ -35,6 +35,9 @@ Finish upload part
 
 TODO:
 Finish piping part
+
+TODO:
+Debugging
 '''
 
 def usage():
